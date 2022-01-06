@@ -1,4 +1,4 @@
-# RestAPIBhinneka
+# Test RestApi soal technical test nomer 1
 
 Install JSON Server
 
